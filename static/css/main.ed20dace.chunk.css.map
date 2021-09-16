@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CACnB,YAGC,sBAAuB","file":"main.ed20dace.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.pagination {\n  justify-content: center;\n}\n"]}
